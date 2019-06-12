@@ -1,4 +1,4 @@
 # Ngrams
 
 
-# Creates a model of the number of unigrams, bigrams, or trigrams in a given text file. The text file in this example is Pride and Prejudice.
+Creates a model of the number of unigrams, bigrams, or trigrams in a given text file. The text file in this example is Pride and Prejudice.
