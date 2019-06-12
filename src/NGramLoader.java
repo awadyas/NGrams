@@ -8,7 +8,7 @@ import java.io.FileNotFoundException;
 import java.util.NoSuchElementException;
 import java.util.ArrayList;
 
-public class Loader {
+public class NGramLoader {
   // This is a hard-coded variable to include "stopwords" in analysis.
   public static boolean sw = true;
   // ArrayList that will contain all stopwords
