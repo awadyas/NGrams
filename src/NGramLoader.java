@@ -1,4 +1,9 @@
-// Ngram.java
+/**
+ * NGramLoader.java
+ * by Yasmeen Awad
+ *
+ * Loads the [uni, bi, or tri]grams of a given text file into an output text file
+ */
 
 import java.util.Scanner;
 import java.io.File;
@@ -227,7 +232,7 @@ public class NGramLoader {
    * Prints a usage statement for incorrect commandline syntax
    */
   public static void printUsage(){
-    System.err.println("Usage: java Loader filename.txt uni/bi/tri");
+    System.err.println("Usage: java NGramLoader filename.txt uni/bi/tri");
     System.exit(1);
   }
 
